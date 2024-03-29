@@ -1,7 +1,8 @@
 import java.util.ArrayList;
-
+import LamparitayFigura.Circulo;
 import LamparitayFigura.Figura;
 import LamparitayFigura.Lamparita;
+import LamparitayFigura.Rectangulo;
 
 public class LamparitaMain {
     public static void main(String[] args) {
