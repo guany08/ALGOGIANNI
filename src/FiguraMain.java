@@ -6,7 +6,7 @@ import LamparitayFigura.Lamparita;
 import LamparitayFigura.Rectangulo;
 
 
-public class Figura {
+public class FiguraMain {
     public static void main(String[] args) {
         // Crear un objeto Rectangulo
         Rectangulo rectangulo = new Rectangulo("Rectángulo", 5.0, 3.0);

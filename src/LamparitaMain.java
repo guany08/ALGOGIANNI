@@ -3,12 +3,12 @@ import java.util.ArrayList;
 import LamparitayFigura.Figura;
 import LamparitayFigura.Lamparita;
 
-public class Lamparita {
+public class LamparitaMain {
     public static void main(String[] args) {
         ArrayList<String> sarandonga = new ArrayList<>();
-        Lamparita Lampara1 = new Lamparita();
-        Lamparita Lampara2 = new Lamparita();
-        Lamparita Lampara3 = new Lamparita();
+        LamparitaMain Lampara1 = new LamparitaMain();
+        LamparitaMain Lampara2 = new LamparitaMain();
+        LamparitaMain Lampara3 = new LamparitaMain();
         Lampara1.estado();
         Lampara1.encender();
         Lampara1.estado();
