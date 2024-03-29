@@ -1,11 +1,12 @@
-import paquete1.Lamparita;
 import java.util.ArrayList;
-import paquete1.Figura;
-import paquete1.Rectangulo;
-import paquete1.Circulo;
+
+import LamparitayFigura.Circulo;
+import LamparitayFigura.Figura;
+import LamparitayFigura.Lamparita;
+import LamparitayFigura.Rectangulo;
 
 
-public class Main {
+public class Figura {
     public static void main(String[] args) {
         // Crear un objeto Rectangulo
         Rectangulo rectangulo = new Rectangulo("Rectángulo", 5.0, 3.0);

@@ -1,4 +1,4 @@
-package paquete1;
+package LamparitayFigura;
 
 // Definición de la subclase Circulo
 public class Circulo extends Figura {

@@ -1,4 +1,4 @@
-package paquete1;
+package LamparitayFigura;
 import java.lang.Math;
 
 // Definición de la superclase Figura

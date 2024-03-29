@@ -1,8 +1,9 @@
-import paquete1.Lamparita;
 import java.util.ArrayList;
-import paquete1.Figura;
 
-public class Nuevo {
+import LamparitayFigura.Figura;
+import LamparitayFigura.Lamparita;
+
+public class Lamparita {
     public static void main(String[] args) {
         ArrayList<String> sarandonga = new ArrayList<>();
         Lamparita Lampara1 = new Lamparita();
@@ -16,9 +17,5 @@ public class Nuevo {
         Lampara1.estado();
         System.err.println(Lampara1.cantidadDeLamparas());
         System.out.println(Lampara1.toString());
-        Rectangulo Cuadradin = new Rectangulo();
-        Circulo Redondel = new Circulo();
-        Cuadradin.calcularArea(10,2);
-        Redondel.calcularArea(10);
     }
 }

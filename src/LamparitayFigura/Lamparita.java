@@ -1,4 +1,4 @@
-package paquete1;
+package LamparitayFigura;
 
 public class Lamparita {
     private boolean estaEncendida = false;
